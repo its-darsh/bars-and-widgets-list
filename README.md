@@ -4,7 +4,7 @@
 a list of projects that made to create widgets (including bars)
 | Project | Description | Made-with | Configured-in | Platform |
 | --- | --- | --- | --- | --- |
-| [eww](https://github.com/elkowar/eww) | ElKowars wacky widgets | Rust | Yuck | Wayland and X11 |
+| [eww](https://github.com/elkowar/eww) | ElKowars wacky widgets | Rust | Custom | Wayland and X11 |
 | [AGS](https://github.com/Aylur/ags) | A customizable and extensible shell | TS/JS | TS/JS | Wayland Only |
 | ??? | NA | NA | NA | NA |
 
