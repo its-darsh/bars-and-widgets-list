@@ -25,4 +25,5 @@ a list of projects that made to create bars only
 | [Unknowndock](https://github.com/J-CITY/unknowdock) | unknowdock status bar for unknowwm | Python | Python | X11 Only |
 
 # See Also
+- [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
 - [KivBar](https://github.com/T-Dynamos/KivBar): A eww widgets like bar made in kivy
