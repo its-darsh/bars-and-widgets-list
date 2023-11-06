@@ -21,10 +21,10 @@ a list of projects that made to create bars only
 | [gBar](https://github.com/scorpion-26/gBar) | Blazingly fast status bar written with GTK | C++ | Custom (AKA YAML) | Wayland Only
 | [Gr8bar](https://github.com/TSedlar/gr8bar) | A cross-platform status bar made with Qt5 | Python | Python | NA |
 | [YAB](https://github.com/PolyMeilex/YetAnotherBar) | YAB - Yet Another Bar is gtk based statusbar for i3 with support for CSS (Archived) | Rust | Custom | Wayland and X11 |
-| [Lemonbar](https://github.com/LemonBoy/bar) | A featherweight, lemon-scented, bar based on xcb | C | Custom (Bash flags) | X11 Only |
+| [Lemonbar](https://github.com/LemonBoy/bar) | A featherweight, lemon-scented, bar based on xcb | C | Shell | X11 Only |
 | [Unknowndock](https://github.com/J-CITY/unknowdock) | unknowdock status bar for unknowwm | Python | Python | X11 Only |
 | [Xmobar (Codeberg)](https://codeberg.org/xmobar/xmobar) | A minimalist status bar | Haskell | Haskell | X11 Only |
-| [Dwmblocks](https://github.com/torrinfail/dwmblocks) | A suckless philosophy i3block like statusbar, patchable to add more functionality | C | C + Shell | X11 Only |
+| [Dwmblocks](https://github.com/torrinfail/dwmblocks) | A suckless philosophy i3block like statusbar, patchable to add more functionality | C | C/Shell | X11 Only |
 
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
