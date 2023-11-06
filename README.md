@@ -24,7 +24,9 @@ a list of projects that made to create bars only
 | [Lemonbar](https://github.com/LemonBoy/bar) | A featherweight, lemon-scented, bar based on xcb | C | Custom (Bash flags) | X11 Only |
 | [Unknowndock](https://github.com/J-CITY/unknowdock) | unknowdock status bar for unknowwm | Python | Python | X11 Only |
 | [Xmobar (Codeberg)](https://codeberg.org/xmobar/xmobar) | A minimalist status bar | Haskell | Haskell | X11 Only |
+| [Dwmblocks](https://github.com/torrinfail/dwmblocks) | A suckless philosophy i3block like statusbar, patchable to add more functionality | C | C + Shell | X11 Only |
 
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
 - [KivBar](https://github.com/T-Dynamos/KivBar): A eww widgets like bar made in kivy
+- [Dmenu](https://tools.suckless.org/dmenu): A dwm statusbar written in C, patchable for adding more functionality
