@@ -32,4 +32,4 @@ a list of projects that made to create bars only
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
 - [KivBar](https://github.com/T-Dynamos/KivBar): A eww widgets like bar made in kivy
-- [Dmenu](https://tools.suckless.org/dmenu): A dwm statusbar written in C, patchable for adding more functionality
+- [Dmenu (suckless.org)](https://tools.suckless.org/dmenu): An efficient dynamic menu for X.
