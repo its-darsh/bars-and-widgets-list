@@ -25,6 +25,9 @@ a list of projects that made to create bars only
 | [Unknowndock](https://github.com/J-CITY/unknowdock) | unknowdock status bar for unknowwm | Python | Python | X11 Only |
 | [Xmobar (Codeberg)](https://codeberg.org/xmobar/xmobar) | A minimalist status bar | Haskell | Haskell | X11 Only |
 | [Dwmblocks](https://github.com/torrinfail/dwmblocks) | A suckless philosophy i3block like statusbar, patchable to add more functionality | C | C/Shell | X11 Only |
+| [Übersicht](https://github.com/felixhageloh/uebersicht) | Keep an eye on what is happening on your machine and in the World. | Objective-C | JavaScript | MacOS Only |
+| [Simple-Bar](https://github.com/Jean-Tinland/simple-bar) | A yabai status bar widget for Übersicht | JavaScript | JavaScript | MacOS Only
+| [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | C | Shell | MacOS Only |
 
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
