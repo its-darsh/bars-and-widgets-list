@@ -30,6 +30,10 @@ a list of projects that made to create bars only
 | [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | C | Shell | MacOS Only |
 | [Xstatbar](https://github.com/ryanflannery/xstatbar) |  A small horizontal system-stats displayer for X11. | C | NA | X11 Only |
 | [Oxbar](https://github.com/ryanflannery/oxbar) |  configurable X11 status bar for OpenBSD (and xstatbar successor) | C | INI | X11 Only |
+| [Rootbar (SoruceHut)](https://hg.sr.ht/~scoopta/rootbar) | a bar for wlroots based wayland compositors designed to address the lack of good bars for wayland. | C | NA | Wayland Only |
+| [Sfwbar](https://github.com/LBCrion/sfwbar) | S* Floating Window Bar | C | Custom | Wayland Only |
+| [Rwaybar](https://github.com/danieldg/rwaybar) | A taskbar for wayland compositors. | Rust | Custom | Wayland Only |
+| [Yambar (Codeberg)](https://codeberg.org/dnkl/yambar) | Modular status panel for X11 and Wayland | C | YAML | Wayland and X11 |
 
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
