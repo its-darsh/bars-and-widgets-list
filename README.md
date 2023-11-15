@@ -28,6 +28,8 @@ a list of projects that made to create bars only
 | [Übersicht](https://github.com/felixhageloh/uebersicht) | Keep an eye on what is happening on your machine and in the World. | Objective-C | JavaScript | MacOS Only |
 | [Simple-Bar](https://github.com/Jean-Tinland/simple-bar) | A yabai status bar widget for Übersicht | JavaScript | JavaScript | MacOS Only
 | [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | C | Shell | MacOS Only |
+| [Xstatbar](https://github.com/ryanflannery/xstatbar) |  A small horizontal system-stats displayer for X11. | C | NA | X11 Only |
+| [Oxbar](https://github.com/ryanflannery/oxbar) |  configurable X11 status bar for OpenBSD (and xstatbar successor) | C | INI | X11 Only |
 
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
