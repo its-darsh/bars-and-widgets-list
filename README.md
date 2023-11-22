@@ -36,6 +36,7 @@ a list of projects that made to create bars only
 | [Yambar (Codeberg)](https://codeberg.org/dnkl/yambar) | Modular status panel for X11 and Wayland | C | YAML | Wayland and X11 |
 | [Barbara](https://github.com/seeruk/barbara) | A native Linux "bar", "dock", "panel", etc. written in Go, using Qt. | Go | NA | X11 Only |
 | [nwg-panel](https://github.com/nwg-piotr/nwg-panel) | GTK3-based panel for sway and Hyprland Wayland compositors | Python | NA | Wayland Only |
+| [Tint2 (Gitlab)](https://gitlab.com/o9000/tint2) | A lightweight panel/taskbar for Linux and BSD | C | Custom | X11 Only |
 
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
