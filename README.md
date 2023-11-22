@@ -35,6 +35,7 @@ a list of projects that made to create bars only
 | [Rwaybar](https://github.com/danieldg/rwaybar) | A taskbar for wayland compositors. | Rust | Custom | Wayland Only |
 | [Yambar (Codeberg)](https://codeberg.org/dnkl/yambar) | Modular status panel for X11 and Wayland | C | YAML | Wayland and X11 |
 | [Barbara](https://github.com/seeruk/barbara) | A native Linux "bar", "dock", "panel", etc. written in Go, using Qt. | Go | NA | X11 Only |
+| [nwg-panel](https://github.com/nwg-piotr/nwg-panel) | GTK3-based panel for sway and Hyprland Wayland compositors | Python | NA | Wayland Only |
 
 # See Also
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
