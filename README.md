@@ -37,6 +37,7 @@ a list of projects that made to create bars only
 | [Barbara](https://github.com/seeruk/barbara) | A native Linux "bar", "dock", "panel", etc. written in Go, using Qt. | Go | NA | X11 Only |
 | [nwg-panel](https://github.com/nwg-piotr/nwg-panel) | GTK3-based panel for sway and Hyprland Wayland compositors | Python | NA | Wayland Only |
 | [Tint2 (Gitlab)](https://gitlab.com/o9000/tint2) | A lightweight panel/taskbar for Linux and BSD | C | Custom | X11 Only |
+| [Cinnabar](https://github.com/mswiger/cinnabar) | NA | Python | NA | Wayland Only |
 
 # See Also
 Other projects you might get interested in
