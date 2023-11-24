@@ -42,3 +42,4 @@ a list of projects that made to create bars only
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
 - [KivBar](https://github.com/T-Dynamos/KivBar): A eww widgets like bar made in kivy
 - [Dmenu (suckless.org)](https://tools.suckless.org/dmenu): An efficient dynamic menu for X.
+- [Sirula](https://github.com/DorianRudolph/sirula): Simple app launcher for wayland written in rust
