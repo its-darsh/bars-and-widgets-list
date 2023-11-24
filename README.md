@@ -39,7 +39,10 @@ a list of projects that made to create bars only
 | [Tint2 (Gitlab)](https://gitlab.com/o9000/tint2) | A lightweight panel/taskbar for Linux and BSD | C | Custom | X11 Only |
 
 # See Also
-- [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter): A simple GTK based notification daemon for SwayWM
-- [KivBar](https://github.com/T-Dynamos/KivBar): A eww widgets like bar made in kivy
-- [Dmenu (suckless.org)](https://tools.suckless.org/dmenu): An efficient dynamic menu for X.
-- [Sirula](https://github.com/DorianRudolph/sirula): Simple app launcher for wayland written in rust
+Other projects you might get interested in
+| Project | Description |
+| --- | --- |
+| [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) | A simple GTK based notification daemon for SwayWM |
+| [KivBar](https://github.com/T-Dynamos/KivBar) | A eww widgets like bar made in kivy |
+| [Dmenu (suckless.org)](https://tools.suckless.org/dmenu) | An efficient dynamic menu for X. |
+| [Sirula](https://github.com/DorianRudolph/sirula) | Simple app launcher for wayland written in rust |
