@@ -6,6 +6,7 @@ a list of projects that made to create widgets (including bars)
 | --- | --- | --- | --- | --- |
 | [eww](https://github.com/elkowar/eww) | ElKowars wacky widgets | Rust | Custom | Wayland and X11 |
 | [AGS](https://github.com/Aylur/ags) | A customizable and extensible shell | TS/JS | TS/JS | Wayland Only |
+| [Tsuki](https://github.com/thomascft/tsuki) | A gtk4-layer-shell widget system for wayland compositors | C | Lua | Wayland Only |
 | ??? | NA | NA | NA | NA |
 
 # Bars
