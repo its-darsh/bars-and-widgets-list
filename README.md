@@ -1,7 +1,7 @@
 # Linux/Unix bars and widgets projects
-**TD;DR**: This is a repo that contains a list of *Nix projects for creating widgets and bars so you _as a new ricer_ be able to easily select the best way for you to create your bar and widgets!
+**TD;DR**: this repository contains a list of projects designed for *Nix (Linux/Unix-like) operating systems, which are made to help you create desktop widgets and/or status bars
 # Widgets And Bars
-a list of projects that made to create widgets (including bars)
+a list of projects made to create desktop widgets (including status bars)
 | Project | Description | Made-with | Configured-in | Platform |
 | --- | --- | --- | --- | --- |
 | [eww](https://github.com/elkowar/eww) | ElKowars wacky widgets | Rust | Custom | Wayland and X11 |
@@ -12,7 +12,7 @@ a list of projects that made to create widgets (including bars)
 
 
 # Bars
-a list of projects that made to create bars only
+a list of projects made to create status bars only
 | Project | Description | Made-with | Configured-in | Platform |
 | --- | --- | --- | --- | --- |
 | [Waybar](https://github.com/Alexays/Waybar) | Highly customizable Wayland bar for Sway and Wlroots based compositors. | C++ | JSON | Wayland Only |
@@ -43,7 +43,7 @@ a list of projects that made to create bars only
 | [Cinnabar](https://github.com/mswiger/cinnabar) | NA | Python | NA | Wayland Only |
 
 # See Also
-Other projects you might get interested in
+other projects you might be interested in
 | Project | Description |
 | --- | --- |
 | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) | A simple GTK based notification daemon for SwayWM |
