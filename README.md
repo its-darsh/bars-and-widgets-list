@@ -6,7 +6,7 @@ a list of projects made to create desktop widgets (including status bars)
 | --- | --- | --- | --- | --- |
 | [eww](https://github.com/elkowar/eww) | ElKowars wacky widgets | Rust | Custom | Wayland and X11 |
 | [AGS](https://github.com/Aylur/ags) | A customizable and extensible shell | TS/JS | TS/JS | Wayland Only |
-| [Tsuki](https://github.com/thomascft/tsuki) | A gtk4-layer-shell widget system for wayland compositors | C | Lua | Wayland Only |
+| ~~[Tsuki](https://github.com/thomascft/tsuki)~~ (Dead)| A gtk4-layer-shell widget system for wayland compositors | C | Lua | Wayland Only |
 | [Fabric](https://github.com/Fabric-Development/fabric) | Next-Gen python framework for creating system widgets on *Nix systems! | Python | Python | Wayland and X11 |
 | [QuickShell](https://github.com/outfoxxed/quickshell) |  Simple and flexbile QtQuick based desktop shell toolkit | C++ | C++ | Wayland Only |
 
