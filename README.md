@@ -41,6 +41,7 @@ a list of projects made to create status bars only
 | [nwg-panel](https://github.com/nwg-piotr/nwg-panel) | GTK3-based panel for sway and Hyprland Wayland compositors | Python | NA | Wayland Only |
 | [Tint2 (Gitlab)](https://gitlab.com/o9000/tint2) | A lightweight panel/taskbar for Linux and BSD | C | Custom | X11 Only |
 | [Cinnabar](https://github.com/mswiger/cinnabar) | NA | Python | NA | Wayland Only |
+| [Zebar](https://github.com/glzr-io/zebar) | Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups. | Rust | JSON | Windows, MacOS and X11 |
 
 # See Also
 other projects you might be interested in
