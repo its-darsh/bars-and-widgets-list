@@ -42,6 +42,7 @@ a list of projects made to create status bars only
 | [Tint2 (Gitlab)](https://gitlab.com/o9000/tint2) | A lightweight panel/taskbar for Linux and BSD | C | Custom | X11 Only |
 | [Cinnabar](https://github.com/mswiger/cinnabar) | NA | Python | NA | Wayland Only |
 | [Zebar](https://github.com/glzr-io/zebar) | Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups. | Rust | JSON | Windows, MacOS and X11 |
+| [Sysbar](https://github.com/System64fumo/sysbar) | Modular status bar for wayland | C++ | CONF | Wayland Only |
 
 # See Also
 other projects you might be interested in
